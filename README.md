@@ -5,7 +5,7 @@
 ![Screenshot](imafeForGitHub.gif)
 
 ## - You Can Waste Your time Here: [Search For Anything](https://venkateshjamge.github.io/gifs/)
-- I'm a B.E. Computer Engineering undergraduate at Pune Institute of Computer Technology [PICT](www.pict.edu).
+- I'm a B.E. Computer Engineering undergraduate at Pune Institute of Computer Technology [PICT](https://pict.edu/).
 - 🌱 I’m currently learning
 
 <!--
