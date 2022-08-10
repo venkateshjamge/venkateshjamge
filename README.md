@@ -1,4 +1,10 @@
-### Hi there 👋
+# <p align="center"> Hi there 👋 I'm Venkatesh Jamge!! </p>
+
+## <p align="center">Full Stack Web Developer!</p>
+
+<imp  align="center"></p>
+- I'm a B.E. Computer Engineering undergraduate at Pune Institute of Computer Technology [PICT](www.pict.edu).
+- 🌱 I’m currently learning
 
 <!--
 **venkateshjamge/venkateshjamge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
