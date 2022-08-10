@@ -3,6 +3,8 @@
 ## <p align="center">Full Stack Web Developer!</p>
 
 ![Screenshot](imafeForGitHub.gif)
+
+
 - I'm a B.E. Computer Engineering undergraduate at Pune Institute of Computer Technology [PICT](www.pict.edu).
 - 🌱 I’m currently learning
 
