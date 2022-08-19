@@ -1,6 +1,6 @@
 # <p align="center"> Hi there 👋 I'm Venkatesh Jamge!! </p>
 
-## <p align="center">Full Stack Web Developer!</p>
+## <p align="center">Learner and Developer!</p>
 
 ![Screenshot](imafeForGitHub.gif)
 
